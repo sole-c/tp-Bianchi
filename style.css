@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 15px;
+    padding: 5px;
+}
+header{
+    background-color: cadetblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    align-items: center;
+    border: 10px black;
+    box-shadow: black;
+}
+h1{
+    text-align: center;
+}
+.box{
+    width: 100%;
+   
+}
+img{
+    width: 80%;
+}
